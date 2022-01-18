@@ -6,4 +6,4 @@
 -->
 
 ![Fraga Github stats](https://github-readme-stats.vercel.app/api?username=BrunaCZ&show_icons=true&theme=synthwave)
-
+![Snake animation](https://github.com/BrunaCZ/BrunaCZ/blob/output/github-contribution-grid-snake.svg)
